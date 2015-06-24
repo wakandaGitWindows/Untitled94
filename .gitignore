@@ -1,4 +1,4 @@
-# OS X
+﻿# OS X
 *.DS_Store
 ._*
 # Wakanda data
@@ -26,8 +26,3 @@ sessionID.json
 *.waBackup
 # Wakanda Remote Model Cache
 *.waRemoteModel
-
-
-/Untitled94/myFolder/myFile2
-
-/Untitled94/myFolder/myFile.js
